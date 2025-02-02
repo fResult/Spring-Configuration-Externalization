@@ -1,6 +1,6 @@
 # Spring Configuration Externalization
 
-This repository is to store configuration for ...
+This repository is a centralized configuration store for ...
 - https://github.com/fResult/Just-Spring-Security/tree/main/98-config-ext-with-spring-cloud
 - https://github.com/fResult/Just-Spring-Security/tree/main/98_1-spring-cloud-config-client
 
