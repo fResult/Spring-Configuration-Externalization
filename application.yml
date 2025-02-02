@@ -1,4 +1,4 @@
 app-config:
-  server:
+  server2:
     my:
       property: "This is a value from Centralized Configuration"
